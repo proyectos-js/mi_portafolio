@@ -1,0 +1,25 @@
+body {
+    text-align: center; 
+    color: #000f08; 
+    margin: 0 auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.hero-section {
+    text-align: center;
+    background-image: url('../img/yo.png');
+    size: 0 auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    text-shadow: 0.125em 0.25em 0.125em #707070;
+    padding: 6.25em 3.125em; 
+}
+
+#entelcall{
+    width: 20%;
+}
+
+#igt{
+    width: 20%;
+}
