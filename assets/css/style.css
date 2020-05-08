@@ -122,14 +122,14 @@
 
 /* -- Seccion contacto -- */
 
-#contacto .llamame{
+#Contacto .llamame{
     font-family: 'Oswald', sans-serif;
     font-weight: bold;
     font-size:52px;
     margin-bottom:40px;
 }
 
-#contacto .llamame hr{
+#Contacto .llamame hr{
     width:100px;
     border-width: 3px;
     border-color: black;
